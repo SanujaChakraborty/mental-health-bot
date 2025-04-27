@@ -1,0 +1,16 @@
+# Mental Health Chatbot
+
+A chatbot designed to assist users with mental health-related queries. It provides emotional support and guidance using natural language processing (NLP) and various psychological assessments like DASS-21.
+
+## Features
+
+- **Emotional Support**: Provides users with answers to mental health-related questions.
+- **Psychological Assessments**: Includes a DASS-21 questionnaire for users to self-assess their mental health.
+- **User-Friendly Interface**: Simple and intuitive chatbot interface for easy interaction.
+
+## Installation
+
+### Requirements
+
+- Python 3.x
+- `pip` (Python package installer)
