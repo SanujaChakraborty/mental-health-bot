@@ -20,10 +20,11 @@ questionnaire widely used for research and screening purposes.
 - Exploratory analysis of questionnaire responses
 
 ## Project Structure
+```
 project_chatbot1.py # Core chatbot logic
 project_chatbot2.py # Alternative chatbot flow
 requirements.txt # Dependencies
-
+```
 
 > Raw and cleaned datasets are excluded from this repository to maintain
 data privacy and ethical standards.
